@@ -59,7 +59,7 @@
 
 **Author identity for commits:**
 - Default for personal repos (CORE / RSCH / PROJ / GAME categories): `Smokeybear10 <thoumas96@gmail.com>`
-- Meta / infra repos (`901.MISC.learnings`, `999.MISC.index`): `Thomas Ou <wiggersincollege@gmail.com>`
+- Meta / infra repos (`901.MISC.amazon`, `999.MISC.index`): `Thomas Ou <wiggersincollege@gmail.com>`
 - **Never** commit under `tommyou@amazon.com` (Amazon work email). The global `git config` may currently be set to it — before any commit, check `git config user.email` and override per-repo (`git config user.email ...`) if it's wrong.
 
 **Good commit messages:**
