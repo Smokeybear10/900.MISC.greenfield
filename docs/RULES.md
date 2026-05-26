@@ -161,7 +161,7 @@ Workflow: `open <url>` → `snapshot -i` → interact with refs (`@e1`, `@e2`) �
 
 ## Skills
 
-The full gstack suite is installed plus five personal commands. Claude should invoke proactively when a task maps — don't ask first.
+The full gstack suite is installed plus seven personal commands. Claude should invoke proactively when a task maps — don't ask first.
 
 ### Personal (/GREEN)
 | Situation | Skill |
@@ -171,6 +171,8 @@ The full gstack suite is installed plus five personal commands. Claude should in
 | Show the curated list of skills I actually use | `/menu` |
 | Tutor me through a concept, file, or library | `/teach` |
 | Final ship-readiness audit (9-gate sweep) | `/audit` |
+| Generate logos, app icons, and a brand page | `/brand-kit` |
+| Turn an approved mockup into production HTML/CSS | `/design-html` |
 
 ### Idea + planning
 | Situation | Skill |
